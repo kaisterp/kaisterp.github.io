@@ -1,4 +1,4 @@
 // if (window.location.href==="https://kaisterp.github.io") {
-alert("Hello World!");
+// alert("Hello World!");
 window.location.href = "https://takealot.com"; 
 // }
